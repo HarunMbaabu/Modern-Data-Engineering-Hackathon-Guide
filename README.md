@@ -19,4 +19,12 @@ For this project, you are supposed to scrap data from one or several websites of
 - Pandas- [Documentation](https://pandas.pydata.org/docs/)
 - Numpy - [Documentation](https://numpy.org/doc/)
 
+**2). Automating Data Scrapers and Analytical Processes using Apache Airflow.**
+
+**Tools:** Apache Airflow, Python, Pandas, Numpy.
+
+- Scrap house listing data from buyrentkenya.com or any other website of your choice and automate your scripts and analytical processes using Apache Airflow. This project focuses on workflow automation and scheduling.
+
+**Reference:**
+- Airflow - [Documentation](https://airflow.apache.org/docs/)
 
