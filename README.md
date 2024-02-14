@@ -6,6 +6,7 @@ Participants are also welcome to bring their own projects and ideas.
 ### **Proposed Projects:** 
 
 **1). Scrap data from Amazon, Jumia, or any other e-commerce website to create a list of all products currently offered at a discount.**
+
 **Tools:** Python, Beautiful Soup, Selenium, Scrapy, Pandas, Numpy.
 
 For this project, you are supposed to scrap data from one or several websites of your choice using the best tool of your choice and nicely present all items on offer.
