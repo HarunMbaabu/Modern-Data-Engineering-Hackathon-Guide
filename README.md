@@ -9,7 +9,7 @@ Participants are also welcome to bring their own projects and ideas.
 
 **Tools:** Python, Beautiful Soup, Selenium, Scrapy, Pandas, Numpy.
 
-For this project, you are supposed to scrap data from one or several websites of your choice using the best tool of your choice and nicely present all items on offer.
+- For this project, you are supposed to scrap data from one or several websites of your choice using the best tool of your choice and nicely present all items on offer.
 
 **Reference:**
 - Python - [Documentation](https://www.pythontutorial.net/)
